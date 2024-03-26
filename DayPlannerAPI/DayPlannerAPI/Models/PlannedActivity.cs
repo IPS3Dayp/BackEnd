@@ -16,8 +16,5 @@ namespace DayPlannerAPI.Models
 
         // Foreign key
         public int UserId { get; set; }
-
-        // Navigation property
-        public User User { get; set; }
     }
 }

@@ -511,3 +511,16 @@ C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\obj\Debug\net8.0\scope
 C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\obj\Debug\net8.0\DayPlann.F7569603.Up2Date
 C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\obj\Debug\net8.0\DayPlannerAPI.genruntimeconfig.cache
 C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\obj\Debug\net8.0\ref\DayPlannerAPI.dll
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\Snappier.dll
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Code\S3\Individual\BackEnd\DayPlannerAPI\DayPlannerAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll

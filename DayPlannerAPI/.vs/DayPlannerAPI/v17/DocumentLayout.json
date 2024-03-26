@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{96CD03B4-8E45-4CCE-B4C0-5A5E052DC633}|DayPlannerAPI\\DayPlannerAPI.csproj|solutionrelative:dayplannerapi\\controllers\\plannedactivitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96CD03B4-8E45-4CCE-B4C0-5A5E052DC633}|DayPlannerAPI\\DayPlannerAPI.csproj|c:\\code\\s3\\individual\\backend\\dayplannerapi\\dayplannerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96CD03B4-8E45-4CCE-B4C0-5A5E052DC633}|DayPlannerAPI\\DayPlannerAPI.csproj|solutionrelative:dayplannerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96CD03B4-8E45-4CCE-B4C0-5A5E052DC633}|DayPlannerAPI\\DayPlannerAPI.csproj|c:\\code\\s3\\individual\\backend\\dayplannerapi\\dayplannerapi\\data\\activitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96CD03B4-8E45-4CCE-B4C0-5A5E052DC633}|DayPlannerAPI\\DayPlannerAPI.csproj|solutionrelative:dayplannerapi\\data\\activitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{96CD03B4-8E45-4CCE-B4C0-5A5E052DC633}|DayPlannerAPI\\DayPlannerAPI.csproj|solutionrelative:dayplannerapi\\models\\plannedactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96CD03B4-8E45-4CCE-B4C0-5A5E052DC633}|DayPlannerAPI\\DayPlannerAPI.csproj|c:\\code\\s3\\individual\\backend\\dayplannerapi\\dayplannerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96CD03B4-8E45-4CCE-B4C0-5A5E052DC633}|DayPlannerAPI\\DayPlannerAPI.csproj|solutionrelative:dayplannerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96CD03B4-8E45-4CCE-B4C0-5A5E052DC633}|DayPlannerAPI\\DayPlannerAPI.csproj|c:\\code\\s3\\individual\\backend\\dayplannerapi\\dayplannerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CD03B4-8E45-4CCE-B4C0-5A5E052DC633}|DayPlannerAPI\\DayPlannerAPI.csproj|solutionrelative:dayplannerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,50 +36,38 @@
               "RelativeDocumentMoniker": "DayPlannerAPI\\Controllers\\PlannedActivitiesController.cs",
               "ToolTip": "C:\\Code\\S3\\Individual\\BackEnd\\DayPlannerAPI\\DayPlannerAPI\\Controllers\\PlannedActivitiesController.cs",
               "RelativeToolTip": "DayPlannerAPI\\Controllers\\PlannedActivitiesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T11:14:59.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ActivityDbContext.cs",
               "DocumentMoniker": "C:\\Code\\S3\\Individual\\BackEnd\\DayPlannerAPI\\DayPlannerAPI\\Data\\ActivityDbContext.cs",
               "RelativeDocumentMoniker": "DayPlannerAPI\\Data\\ActivityDbContext.cs",
               "ToolTip": "C:\\Code\\S3\\Individual\\BackEnd\\DayPlannerAPI\\DayPlannerAPI\\Data\\ActivityDbContext.cs",
               "RelativeToolTip": "DayPlannerAPI\\Data\\ActivityDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T14:07:43.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Code\\S3\\Individual\\BackEnd\\DayPlannerAPI\\DayPlannerAPI\\Models\\User.cs",
-              "RelativeDocumentMoniker": "DayPlannerAPI\\Models\\User.cs",
-              "ToolTip": "C:\\Code\\S3\\Individual\\BackEnd\\DayPlannerAPI\\DayPlannerAPI\\Models\\User.cs",
-              "RelativeToolTip": "DayPlannerAPI\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T13:03:40.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PlannedActivity.cs",
               "DocumentMoniker": "C:\\Code\\S3\\Individual\\BackEnd\\DayPlannerAPI\\DayPlannerAPI\\Models\\PlannedActivity.cs",
               "RelativeDocumentMoniker": "DayPlannerAPI\\Models\\PlannedActivity.cs",
               "ToolTip": "C:\\Code\\S3\\Individual\\BackEnd\\DayPlannerAPI\\DayPlannerAPI\\Models\\PlannedActivity.cs",
               "RelativeToolTip": "DayPlannerAPI\\Models\\PlannedActivity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T10:15:44.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\S3\\Individual\\BackEnd\\DayPlannerAPI\\DayPlannerAPI\\Program.cs",
               "RelativeDocumentMoniker": "DayPlannerAPI\\Program.cs",

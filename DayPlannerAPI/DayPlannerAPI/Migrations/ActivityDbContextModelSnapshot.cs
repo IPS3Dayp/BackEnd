@@ -45,38 +45,7 @@ namespace DayPlannerAPI.Migrations.ActivityDb
 
                     b.HasKey("Id");
 
-                    b.HasIndex("UserId");
-
                     b.ToTable("PlannedActivities");
-                });
-
-            modelBuilder.Entity("DayPlannerAPI.Models.User", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Users");
-                });
-
-            modelBuilder.Entity("DayPlannerAPI.Models.PlannedActivity", b =>
-                {
-                    b.HasOne("DayPlannerAPI.Models.User", "User")
-                        .WithMany("PlannedActivities")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.Navigation("User");
-                });
-
-            modelBuilder.Entity("DayPlannerAPI.Models.User", b =>
-                {
-                    b.Navigation("PlannedActivities");
                 });
 #pragma warning restore 612, 618
         }
